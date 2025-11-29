@@ -1,4 +1,4 @@
-### 🚀 LOVABLE PROMPT — Student Course Feedback App (Supabase)
+### 🚀 LOVABLE PROMPT — Student Course Feedback App (Supabase).
 
 Build a complete Student Course Feedback App using Supabase as the backend.
 The app must have two main pages with top navigation:
