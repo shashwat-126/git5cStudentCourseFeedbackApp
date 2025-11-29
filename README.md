@@ -1,9 +1,12 @@
 ### 🚀 LOVABLE PROMPT — Student Course Feedback App (Supabase)
-Website Preview
+
+Website Preview:
 ```
 https://id-preview--250fa8a8-6b77-4091-956f-9fb31a1acbbb.lovable.app/
 ```
-Build a complete Student Course Feedback App using Supabases.
+
+Build a complete Student Course Feedback App using Supabase as the backend.
+
 The app must have two main pages with top navigation:
 
 1️⃣ Submit Feedback
