@@ -1,6 +1,9 @@
 ### 🚀 LOVABLE PROMPT — Student Course Feedback App (Supabase)
-
-Build a complete Student Course Feedback App using Supabase as the backend.
+Website Preview
+```
+https://id-preview--250fa8a8-6b77-4091-956f-9fb31a1acbbb.lovable.app/
+```
+Build a complete Student Course Feedback App using Supabases.
 The app must have two main pages with top navigation:
 
 1️⃣ Submit Feedback
@@ -92,4 +95,12 @@ Submitted date (format created_at)
 Chat GPT Prompt
 ```
 Generate a complete Lovable prompt for building a Student Course Feedback App using Supabase. The app must include two pages Submit Feedback and View Feedback with navigation. Submit Feedback page should contain fields: USN, student name, course dropdown, rating (1–5), comments. Course dropdown must include: CSE, Maths, Physics, AI, DBMS, AIML, SEM, GIT, FSD, OS, DCN, DAA, DSC, Math, Physics, FAFL, MCIoT, UHV, DMS, Chemistry, CNS, Secure Programming. On submit, save data into a Supabase table named feedback with fields: usn, student_name, course, rating, comments, created_at. Show success popup after submission. View Feedback page should show list of feedback in cards, include a search bar (USN, name, course), refresh button, and fetch sorted results from Supabase. Generate a clean UI description and include a Supabase schema for the feedback table.
+```
+Original repository link
+```
+https://github.com/ChrompyCoder/git5cStudentCourseFeedbackApp
+```
+Forked repository link
+```
+https://github.com/shashwat-126/git5cStudentCourseFeedbackApp
 ```
